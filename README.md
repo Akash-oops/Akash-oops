@@ -5,13 +5,13 @@
 
 ---
 
-# 💫 About Me  
+# About Me  
 <table>
 <tr>
 <td width="60%">
-Hi, I’m **Akash**, an aspiring Software Developer with strong skills in **C++ for DSA and problem-solving**, along with experience in **Java up to advanced topics**.  
+Hi, I’m Akash, an aspiring Software Developer with strong skills in C++ for DSA and problem-solving, along with experience in Java up to advanced topics.  
 I enjoy tackling challenges, optimizing code, and turning complex problems into simple solutions.  
-Sometimes the compiler roasts me, but persistence keeps me building, learning, and improving every day 🚀.  
+Persistence drives me to keep building, learning, and improving every day.  
 </td>
 <td width="40%">
   <img src="https://github.com/Akash-oops/Akash-oops/blob/main/code%201.png" width="250">
@@ -27,7 +27,14 @@ Sometimes the compiler roasts me, but persistence keeps me building, learning, a
 
 ---
 
-# 💻 Tech Stack  
+## 📌 Current Focus  
+- Mastering advanced concepts in **C++ and Java**  
+- Exploring **Python for data analysis and automation**  
+- Building real-world projects to strengthen **problem-solving skills**  
+
+---
+
+## 💻 Tech Stack  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
@@ -42,7 +49,14 @@ Sometimes the compiler roasts me, but persistence keeps me building, learning, a
 
 ---
 
-# 📊 GitHub Stats  
+## 🚀 Featured Projects  
+- [**Video Conferencing App (Flutter + Firebase)**](https://github.com/Akash-oops)  
+- [**Coal Mining Safety Chatbot (Python + Streamlit)**](https://github.com/Akash-oops)  
+- [**Resource Connect (Kotlin App for Relief Agencies)**](https://github.com/Akash-oops)  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-oops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Akash-oops&theme=transparent&hide_border=false" height="150"/>
@@ -56,14 +70,14 @@ Sometimes the compiler roasts me, but persistence keeps me building, learning, a
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-oops&theme=radical&no-frame=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash-oops&theme=gruvbox&no-frame=true&margin-w=4"/>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote  
+### 💡 Quote of the Day  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </p>
 
 ---
