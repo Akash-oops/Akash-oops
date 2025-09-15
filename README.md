@@ -5,13 +5,13 @@
 
 ---
 
-# About Me  
+# 💫 About Me
 <table>
 <tr>
 <td width="60%">
-Hi, I’m Akash, an aspiring Software Developer with strong skills in C++ for DSA and problem-solving, along with experience in Java up to advanced topics.  
+Hi, I’m <b>Akash</b>, an aspiring Software Developer with strong skills in <b>C++ for DSA</b> and problem-solving, along with experience in <b>Java up to advanced topics</b>.  
 I enjoy tackling challenges, optimizing code, and turning complex problems into simple solutions.  
-Persistence drives me to keep building, learning, and improving every day.  
+Sometimes the compiler roasts me, but persistence keeps me building, learning, and improving every day.
 </td>
 <td width="40%">
   <img src="https://github.com/Akash-oops/Akash-oops/blob/main/code%201.png" width="250">
@@ -21,20 +21,13 @@ Persistence drives me to keep building, learning, and improving every day.
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-d-751682316)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:micromaxakash4@gmail.com)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-d-751682316/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:micromaxakash4@gmail.com)  
 
 ---
 
-## 📌 Current Focus  
-- Mastering advanced concepts in **C++ and Java**  
-- Exploring **Python for data analysis and automation**  
-- Building real-world projects to strengthen **problem-solving skills**  
-
----
-
-## 💻 Tech Stack  
+# 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
@@ -46,42 +39,29 @@ Persistence drives me to keep building, learning, and improving every day.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)  
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white)  
 
 ---
 
-## 🚀 Featured Projects  
-- [**Video Conferencing App (Flutter + Firebase)**](https://github.com/Akash-oops)  
-- [**Coal Mining Safety Chatbot (Python + Streamlit)**](https://github.com/Akash-oops)  
-- [**Resource Connect (Kotlin App for Relief Agencies)**](https://github.com/Akash-oops)  
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Akash-oops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akash-oops&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-oops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-oops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Akash-oops&theme=transparent&hide_border=false" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-oops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akash-oops&theme=gruvbox&no-frame=true&margin-w=4)
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-oops&theme=gruvbox&no-frame=true&margin-w=4"/>
-</p>
-
----
-
-### 💡 Quote of the Day  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Akash-oops&icon=3&color=0" />
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
