@@ -8,12 +8,12 @@
 # 💫 About Me
 <table>
 <tr>
-<td width="60%">
+<td>
 Hi, I’m <b>Akash</b>, an aspiring Software Developer with strong skills in <b>C++ for DSA</b> and problem-solving, along with experience in <b>Java up to advanced topics</b>.  
 I enjoy tackling challenges, optimizing code, and turning complex problems into simple solutions.  
 Sometimes the compiler roasts me, but persistence keeps me building, learning, and improving every day.
 </td>
-<td width="40%">
+<td align="right">
   <img src="https://github.com/Akash-oops/Akash-oops/blob/main/code%201.png" width="250">
 </td>
 </tr>
