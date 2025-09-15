@@ -5,16 +5,20 @@
 
 ---
 
-# 💫 About Me
+## 🧑‍💻 About Me:
 <table>
 <tr>
-<td>
-Hi, I’m <b>Akash</b>, an aspiring Software Developer with strong skills in <b>C++ for DSA</b> and problem-solving, along with experience in <b>Java up to advanced topics</b>.  
+<td width="60%" valign="top">
+
+Hi, I’m **Akash**, an aspiring Software Developer with strong skills in **C++ for DSA** and problem-solving, along with experience in **Java up to advanced topics**.  
 I enjoy tackling challenges, optimizing code, and turning complex problems into simple solutions.  
 Sometimes the compiler roasts me, but persistence keeps me building, learning, and improving every day.
+
 </td>
-<td align="right">
-  <img src="https://github.com/Akash-oops/Akash-oops/blob/main/code%201.png" width="250">
+<td width="40%" align="center">
+
+<img src="https://github.com/Akash-oops/Akash-oops/blob/main/code%201.png" width="350" style="border:2px solid #ccc; border-radius:10px; box-shadow: 2px 2px 10px gray;">
+
 </td>
 </tr>
 </table>
